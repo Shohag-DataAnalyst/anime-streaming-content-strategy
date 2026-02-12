@@ -136,5 +136,5 @@ This project demonstrates the ability to:
 
 **Author:** Shohag  
 
-- 💼 LinkedIn: https://www.linkedin.com/in/dataanalystshohag/  
-- 🧑‍💻 GitHub: https://github.com/Shohag-DataAnalyst
+- 💼 LinkedIn: [NURA ALAMA SHOHAG](https://www.linkedin.com/in/dataanalystshohag/)  
+- 🧑‍💻 GitHub: [Shohag-DataAnalyst](https://github.com/Shohag-DataAnalyst)
