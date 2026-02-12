@@ -69,28 +69,33 @@ anime-streaming-content-strategy/
 ### 📈 Market Expansion: Pre vs Post Streaming Era
 Anime audiences have expanded dramatically in the post-2010 period, signaling a structural shift from niche consumption toward global mainstream adoption.
 
+![Market Expansion](screenshots/market_expansion.png)
 ---
 
 ### 🎯 Format Sweet Spot: Episode Count vs Audience Reach
 Series in the **13–24 episode range** achieve the strongest typical audience size, suggesting alignment with modern binge-friendly viewing habits.
 
+![Format Sweet Spot](screenshots/format_sweet_spot.png)
 ---
 
 ### ⭐ Quality vs Reach
 Elite-rated titles attract substantially larger audiences on average, confirming that viewer satisfaction strongly supports discoverability and word-of-mouth growth.
-
 However, select mid-rated titles still achieve scale — highlighting the influence of franchise power and marketing.
 
+![Quality vs Reach](screenshots/quality_vs_reach.png)
 ---
 
 ### 🔍 Hidden Gems
 A small cluster of highly rated yet underexposed titles reveals opportunities for early licensing before broader market discovery.
+
+![Hidden Gems](screenshots/hidden_gems.png)
 
 ---
 
 ### 📊 Audience Growth Over Time
 Longitudinal trends show sustained audience expansion, reinforcing that anime demand reflects durable market growth rather than temporary spikes.
 
+![Audience Growth Over Time](screenshots/audience_growth_over_time.png)
 ---
 
 ## 🚀 Key Strategic Takeaways
